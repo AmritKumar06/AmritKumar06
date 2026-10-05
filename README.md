@@ -129,6 +129,5 @@ Multithreading
 
 ### `while(alive) { learn(); build(); repeat(); }`
 
-**Thanks for visiting! ⭐**
 
 </div>
