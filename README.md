@@ -2,10 +2,6 @@
 
 ### `CSE Student` • `Software Developer` • `Linux Enthusiast` • `ML Explorer`
 
-<a href="https://komarev.com/ghpvc/?username=AmritKumar06">
-  <img align="right" src="https://komarev.com/ghpvc/?username=AmritKumar06&label=Profile%20views&color=green&style=flat-square" alt="Profile views">
-</a>
-
 > Building things, learning how they work, and constantly trying to become a better developer. ⚙️
 
 ---
