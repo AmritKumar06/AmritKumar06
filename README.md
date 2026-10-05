@@ -54,33 +54,12 @@ I'm a Computer Science & Engineering student interested in building practical so
 
 ---
 
-## 🧠 Core Concepts
-
-```text
-Data Structures & Algorithms
-Object-Oriented Programming
-Operating Systems
-Computer Networks
-Database Management Systems
-Machine Learning
-REST APIs
-Linux / POSIX Programming
-TCP/IP & Socket Programming
-Multithreading
-```
-
----
-
 ## 📚 Currently Learning
 
 ```text
 → Advanced C++
 → Linux Internals
 → System Programming
-→ Data Structures & Algorithms
-→ Computer Networks
-→ Machine Learning
-→ System Design
 ```
 
 ---
